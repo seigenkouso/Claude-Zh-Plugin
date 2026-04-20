@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Claude.ai 汉化",
+  "version": "Beta 1",
+  "description": "原生 JS 实现的 Claude 汉化引擎",
+  "content_scripts": [
+    {
+      "matches": ["https://claude.ai/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
