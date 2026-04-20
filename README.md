@@ -27,7 +27,7 @@
 
 | 汉化前 | 汉化后 |
 | :--- | :--- |
-| ![Before](link_to_img) | ![After](link_to_img) |
+| ![Before](https://github.com/seigenkouso/Claude-Zh-Plugin/blob/main/images/Before.png) | ![After](https://github.com/seigenkouso/Claude-Zh-Plugin/blob/main/images/After.png) |
 
 ---
 
