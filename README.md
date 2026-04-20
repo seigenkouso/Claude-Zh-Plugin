@@ -25,9 +25,13 @@
 
 ### 效果预览
 
+<div align="center">
+
 | 汉化前 | 汉化后 |
-| :--- | :--- |
-| ![Before](https://github.com/seigenkouso/Claude-Zh-Plugin/blob/main/images/Before.png) | ![After](https://github.com/seigenkouso/Claude-Zh-Plugin/blob/main/images/After.png) |
+| :---: | :---: |
+| ![Before](./images/Before.png) | ![After](./images/After.png) |
+
+</div>
 
 ---
 
