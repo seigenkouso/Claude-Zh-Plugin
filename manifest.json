@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Claude.ai 汉化",
-  "version": "0.1",
+  "version": "0.1.1",
   "description": "原生 JS 实现的 Claude 汉化引擎",
   "content_scripts": [
     {
