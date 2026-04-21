@@ -830,9 +830,9 @@ function isSafeToTranslate(node) {
 }
 
 const dynamicRules = [
-  { regex: /^Good morning,?\s*(.*)$/i, replace: "早上好，$1" },
-  { regex: /^Good afternoon,?\s*(.*)$/i, replace: "下午好，$1" },
-  { regex: /^Good evening,?\s*(.*)$/i, replace: "晚上好，$1" },
+  { regex: /^Morning,?\s*(.*)$/i, replace: "早上好，$1" },
+  { regex: /^Afternoon,?\s*(.*)$/i, replace: "下午好，$1" },
+  { regex: /^Evening,?\s*(.*)$/i, replace: "晚上好，$1" },
   { regex: /^It's late-night\s*(.*)$/i, replace: "夜深了，$1" },
   { regex: /^Type \/ for (.*)$/i, replace: "输入 / 获取 $1" },
   { regex: /^until\s+(.*)$/i, replace: "额度已用尽，下个可用时间：$1" },
